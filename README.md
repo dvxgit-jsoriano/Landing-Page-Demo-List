@@ -1,5 +1,5 @@
 # Landing-Page-Demo-List
-This is a list of some demo from youtube links and tutorials. Credit to the owners. Demo not mine.
+This is a list of some cool and stunning live demo from youtube links and tutorials. Credit to the owners. Demo not mine.
 
 ## URLS Demo and Tutorials:
 
