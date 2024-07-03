@@ -4,4 +4,5 @@ This is a list of some demo from youtube links and tutorials. Credit to the owne
 ## URLS Demo and Tutorials:
 
 ### Honda Landing Page:
-- [DEMO](https://honda-tcj.netlify.app/#)
+- Youtube: [https://www.youtube.com/watch?v=QlKD8LAGPaM&ab_channel=TheCodingJourney](https://www.youtube.com/watch?v=QlKD8LAGPaM&ab_channel=TheCodingJourney)
+- Demo: [https://honda-tcj.netlify.app/#](https://honda-tcj.netlify.app/#)
